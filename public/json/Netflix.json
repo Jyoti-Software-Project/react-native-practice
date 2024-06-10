@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Witcher",
+        "year": "2020 - 2021",
+        "creator": "Lauren",
+        "genre": "Reality"
+    },
+    {
+        "id": "2",
+        "name": "Wallis",
+        "year": "2021 - 2022",
+        "creator": "Schmidt",
+        "genre": "Drama"
+    },
+    {
+        "id": "3",
+        "name": "Yemen",
+        "year": "2022 - 2023",
+        "creator": "Hissrich",
+        "genre": "Horror"
+    },
+    {
+        "id": "4",
+        "name": "Zambia",
+        "year": "2023 - 2024",
+        "creator": "Darren",
+        "genre": "Romance"
+    },
+    {
+        "id": "5",
+        "name": "Angola",
+        "year": "2024 - 2025",
+        "creator": "Zimbabwe",
+        "genre": "Thriller"
+    }
+]
